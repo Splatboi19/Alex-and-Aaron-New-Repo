@@ -1,2 +1,3 @@
 # Alex-and-Aaron-New-Repo
-new repo
+Task 1: Completed by Alexander Lynn
+Task 2: Completed by Aaron Davidson
